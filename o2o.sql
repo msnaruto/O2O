@@ -54,10 +54,10 @@ CREATE TABLE `tb_head_line` (
 -- ----------------------------
 -- Records of tb_head_line
 -- ----------------------------
-INSERT INTO `tb_head_line` VALUES ('11', '1', 'http://115.28.159.6/myo2o/frontend/shopdetail?shopId=20', '/upload/images/item/headtitle/2017061320315746624.jpg', '1', '1', '2017-06-13 20:31:57', '2017-06-13 20:31:57');
-INSERT INTO `tb_head_line` VALUES ('12', '2', 'http://115.28.159.6/myo2o/frontend/shopdetail?shopId=20', '/upload/images/item/headtitle/2017061320371786788.jpg', '2', '1', '2017-06-13 20:37:17', '2017-06-13 20:37:17');
-INSERT INTO `tb_head_line` VALUES ('14', '3', 'http://115.28.159.6/myo2o/frontend/shopdetail?shopId=20', '/upload/images/item/headtitle/2017061320393452772.jpg', '3', '1', '2017-06-13 20:39:34', '2017-06-13 20:39:34');
-INSERT INTO `tb_head_line` VALUES ('15', '4', 'http://115.28.159.6/myo2o/frontend/shopdetail?shopId=20', '/upload/images/item/headtitle/2017061320400198256.jpg', '4', '1', '2017-06-13 20:40:01', '2017-06-13 20:40:01');
+INSERT INTO `tb_head_line` VALUES ('11', '1', 'http://192.168.52.133/myo2o/frontend/shopdetail?shopId=20', '/upload/images/item/headtitle/2017061320315746624.jpg', '1', '1', '2017-06-13 20:31:57', '2017-06-13 20:31:57');
+INSERT INTO `tb_head_line` VALUES ('12', '2', 'http://192.168.52.133/myo2o/frontend/shopdetail?shopId=20', '/upload/images/item/headtitle/2017061320371786788.jpg', '2', '1', '2017-06-13 20:37:17', '2017-06-13 20:37:17');
+INSERT INTO `tb_head_line` VALUES ('14', '3', 'http://192.168.52.133/myo2o/frontend/shopdetail?shopId=20', '/upload/images/item/headtitle/2017061320393452772.jpg', '3', '1', '2017-06-13 20:39:34', '2017-06-13 20:39:34');
+INSERT INTO `tb_head_line` VALUES ('15', '4', 'http://192.168.52.133/myo2o/frontend/shopdetail?shopId=20', '/upload/images/item/headtitle/2017061320400198256.jpg', '4', '1', '2017-06-13 20:40:01', '2017-06-13 20:40:01');
 
 -- ----------------------------
 -- Table structure for tb_local_auth
